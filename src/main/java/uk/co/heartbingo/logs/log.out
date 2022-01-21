@@ -1,0 +1,1 @@
+2022-01-21 19:01:869 INFO  LoginPage :58 - Verifying Login Page TextProxy element for: DefaultElementLocator 'By.xpath: //*[@id="__next"]/form/p[2]/a'
